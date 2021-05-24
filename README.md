@@ -32,7 +32,7 @@ Mr. Junod (High School Psychology Teacher)
 >Remember, every one of us are like trees. No matter how far up we branch, there are roots that keep us steady and grounded. Make sure to build your foundation. Feed it. Water it. Noursh it.
 
 ### To Me Growth Mindset is About:
-Perserverance. No matter how difficult the daily tasks may be, remember that there is either someone there to help out or there is always a way to find more information. It'll take initiative and drive to reach your finish line. Whether that finish line be one that is to end months from now; possibly years, even a daily finish line push through. A growth mindset is one that is always striving to absorb the information of subjects we enjoy. A continuation of education. At many times it's also absorbing information on things we don't enjoy. 
+Perserverance. No matter how difficult the daily tasks may be, remember that there is either someone there to help out or there is always a way to find more information. It'll take initiative and drive to reach your finish line. Whether that finish line be one that is to end months from now; possibly years, even a daily finish line, push through. A growth mindset is one that is always striving to absorb information of subjects we enjoy. A continuation of education. At many times it's also absorbing information on things we don't. I consider the ones in which we don't enjoy to be the one's that leave the most lasting of learned lessons.
 
 Grandpa Tep
 >Nothing comes easy. Everything is earned.
