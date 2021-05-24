@@ -14,7 +14,7 @@ I am a 10 year Air Force Veteran where I was a C-17 Globemaster airframe mechani
 
 In August of 2019 I finially decided to exit the military and pursue my own educational goals. I attempted to attend a community college for several years. That ultimately didn't work out. So, here I am, attending CodeFellows to pursue a dream of becoming a Software Developer.
 
-I'm currently working as an Operations Manager for UPS. I have been with them for the last 3 years. I am originally from St. Paul, MN. I have been living in Seattle for the last 4 years, however I've been in WA as a whole for the last 13.  I have some hobbies such as:
+I'm currently working as an Operations Manager for UPS. I have been with them for the last 3 years. I am originally from St. Paul, MN. I have been living in Seattle for the last 4 years, however I've been in WA as a whole for the last 12.  I have a few hobbies such as:
 
 
 
