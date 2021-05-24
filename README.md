@@ -37,3 +37,7 @@ Perserverance. No matter how difficult the daily tasks may be, remember that the
 Grandpa Tep
 >Nothing comes easy. Everything is earned.
 
+
+##### Find Me Here
+[Facebook](https://www.facebook.com/tray.alexzandar/) | 
+[Instagram](https://www.instagram.com/trayalexzandar/)
