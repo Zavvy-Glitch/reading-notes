@@ -11,10 +11,11 @@ Typing out a variable number of octothorps will allow you to select a heading si
 | :------: | :------: | :------: | :------: | :------: | :------: |
 | #        | ##       | ###      | ####     | #####    | ######   |
 
+Below here is how they will generate:
+
 # Header 1
 ## Header 2
 ### Header 3
 #### Header  4
 ##### Header 5
 ###### Header 6
-
