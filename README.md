@@ -26,6 +26,6 @@ Below here is how they will generate:
 
 ### Table of Contents
 
-[Reading 1](markdown.md)
-[Reading 2](coderscomputer.md) 
-[Reading 3](revisionsandthecloud.md)
+[Reading 1](markdown.md) |
+[Reading 2](coderscomputer.md) |
+[Reading 3](revisionsandthecloud.md) |
