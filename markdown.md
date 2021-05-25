@@ -57,6 +57,5 @@ Grandpa Tep
 
 ##### Table of Contents
 [Back to Read Me](README.md) | 
-[Reading 1](markdown.md) |
 [Reading 2](coderscomputer.md) |
 [Reading 3](revisionsandthecloud.md) |
