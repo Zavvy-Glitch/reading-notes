@@ -49,4 +49,7 @@ file[path] | file location with in system |
 - Linux is Case Sensitive
 - Spaces in names will create separate items ie: monkey puzzle > mkdir monkey puzzle > will create one file for monkey and one for puzzle
 - Quotes 'monkey puzzle' > Will allow for the file name to have a space. This is also the same with a backslash: monkey\ puzzle.
-- 
+
+[Back to Read Me](README.md)
+[Reading 1](markdown.md) |
+[Reading 3](revisionsandthecloud.md) |
