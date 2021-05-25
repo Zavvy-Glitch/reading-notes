@@ -1,4 +1,7 @@
-# About Me
+## Reading Notes for Codefellows
+
+
+## About Me
 
 I am a 10 year Air Force Veteran where I was a C-17 Globemaster airframe mechanic. The job itself was heavily labor intensive, but it had amazing perks. Flights around the world? ***Check.*** Life long lessons in understanding your limits? ***Absolutely.*** Gaining copious amounts of real world experience that can be utilized extensively? ***They've got you covered***, and mind you, you had to learn quick.
 
@@ -51,7 +54,7 @@ Grandpa Tep
 [GitHub](https://github.com/Zavvy-Glitch) | 
 
 ##### Table of Contents
-[Reading 1](markdown.md) | 
-[Reading 2](coderscomputer.md) |
-[Reading 3](revisionsandthecloud.md) |
+[Lesson 1: Markdown](markdown.md) | 
+[Lesson 2: Coders Computer](coderscomputer.md) |
+[Lesson 3: Revisions and the Cloud](revisionsandthecloud.md) |
 
