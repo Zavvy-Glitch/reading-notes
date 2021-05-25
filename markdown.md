@@ -53,4 +53,10 @@ Grandpa Tep
 ##### Find Me Here
 [Facebook](https://www.facebook.com/tray.alexzandar/) | 
 [Instagram](https://www.instagram.com/trayalexzandar/) |
-[GitHub](https://github.com/Zavvy-Glitch) | [Back to Read Me](README.md)
+[GitHub](https://github.com/Zavvy-Glitch) | 
+
+##### Table of Contents
+[Back to Read Me](README.md) | 
+[Reading 1](markdown.md) |
+[Reading 2](coderscomputer.md) |
+[Reading 3](revisionsandthecloud.md) |
