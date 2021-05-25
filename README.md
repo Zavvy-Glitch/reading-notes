@@ -5,7 +5,7 @@
 
 I am a 10 year Air Force Veteran where I was a C-17 Globemaster airframe mechanic. The job itself was heavily labor intensive, but it had amazing perks. Flights around the world? ***Check.*** Life long lessons in understanding your limits? ***Absolutely.*** Gaining copious amounts of real world experience that can be utilized extensively? ***They've got you covered***, and mind you, you had to learn quick.
 
-In August of 2019 I finially decided to exit the military and pursue my own educational goals. I attempted to attend a community college for several years. That ultimately didn't work out. So, here I am, attending CodeFellows to pursue a dream of becoming a Software Developer.
+In August of 2019, I finially decided to exit the military and pursue my own educational goals. I attempted to attend a community college for several years. That ultimately didn't work out. So, here I am, attending CodeFellows to pursue a dream of becoming a Software Developer.
 
 I'm currently working as an Operations Manager for UPS. I have been with them for the last 3 years. I am originally from St. Paul, MN. I have been living in Seattle for the last 4 years, however I've been in WA as a whole for the last 12.  I have a few hobbies such as:
 
