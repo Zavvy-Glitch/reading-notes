@@ -1,7 +1,4 @@
-# MARKDOWN READINGS
-
-
-## About Me
+# About Me
 
 I am a 10 year Air Force Veteran where I was a C-17 Globemaster airframe mechanic. The job itself was heavily labor intensive, but it had amazing perks. Flights around the world? ***Check.*** Life long lessons in understanding your limits? ***Absolutely.*** Gaining copious amounts of real world experience that can be utilized extensively? ***They've got you covered***, and mind you, you had to learn quick.
 
