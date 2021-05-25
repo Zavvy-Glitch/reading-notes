@@ -24,4 +24,8 @@ Below here is how they will generate:
 >No matter how easy someone makes it look, there was a beginning in which they messed up all the time. 
 >It takes practice to reach proficiency. (This is the principle she lived by when teaching me how to cook)
 
-[Markdown](markdown.md)
+### Table of Contents
+
+[Reading 1](markdown.md)
+[Reading 2](coderscomputer.md) 
+[Reading 3](revisionsandthecloud.md)
