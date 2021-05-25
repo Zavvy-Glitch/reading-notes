@@ -22,4 +22,4 @@ Below here is how they will generate:
 
 ## Grandma Tep Quote:
 >No matter how easy someone makes it look, there was a beginning in which they messed up all the time. 
->It takes practice to reach proficiency. (This is how she taught me how to cook)
+>It takes practice to reach proficiency. (This is the principle she lived by when teaching me how to cook)
