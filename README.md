@@ -20,6 +20,6 @@ Below here is how they will generate:
 ##### Header 5
 ###### Header 6
 
-##Grandma Tep Quote:
+## Grandma Tep Quote:
 >No matter how easy someone makes it look, there was a beginning in which they messed up all the time. 
 >It takes practice to reach proficiency. (This is how she taught me how to cook)
