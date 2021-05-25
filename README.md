@@ -44,3 +44,14 @@ Perserverance. No matter how difficult the daily tasks may be, remember that the
 
 Grandpa Tep
 >Nothing comes easy. Everything is earned.
+
+##### Find Me Here
+[Facebook](https://www.facebook.com/tray.alexzandar/) | 
+[Instagram](https://www.instagram.com/trayalexzandar/) |
+[GitHub](https://github.com/Zavvy-Glitch) | 
+
+##### Table of Contents
+[Reading 1](markdown.md) | 
+[Reading 2](coderscomputer.md) |
+[Reading 3](revisionsandthecloud.md) |
+
