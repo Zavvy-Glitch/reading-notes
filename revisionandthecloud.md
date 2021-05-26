@@ -1,3 +1,13 @@
+# Reading 3: Revision and the Cloud
+
+An Introduction to GIT
+
+##First Things First Terminology to Remember:
+
+VCS | Local VCS | CVCS | DVCS |
+--- | --------- | ---- | ---- |
+Version Control System | Local Version Control System | Centralized Version Control System | Distributed Version Control System |
+
 
 [Back to Read Me](README.md) |
 [Reading 1: Markdown](markdown.md) |
