@@ -19,12 +19,12 @@ Pen and Paper | UXpin | InVision | Wireframe.cc | Many More...
 
 ## Six Steps For Wireframing
 
--Do your Research
--Prepare your Research for Quick Reference
--Make sure you have your user flow mapped out
--Draft > Draw and Sketch > Don't Illustrate
--Add Detail and Test it
--Turn Wireframes into Prototypes
+* Do your Research
+* Prepare your Research for Quick Reference
+* Make sure you have your user flow mapped out
+* Draft > Draw and Sketch > Don't Illustrate
+* Add Detail and Test it
+* Turn Wireframes into Prototypes
 
 ## 3 Key Principles:
 * Clarity
