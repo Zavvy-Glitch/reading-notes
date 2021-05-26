@@ -55,7 +55,6 @@ Below here is how they will generate:
 
 
 [Back to Read Me](README.md) |
-
-[Reading 2](coderscomputer.md) |
-
-[Reading 3](revisionsandthecloud.md) |
+[Reading 2 Coder's Computer](coderscomputer.md) |
+[Reading 3 Revision and the Cloud](revisionsandthecloud.md) |
+[Reading 4 HTML](html.md) |

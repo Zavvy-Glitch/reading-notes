@@ -50,5 +50,6 @@ file[path] | file location with in system |
 - Quotes 'monkey puzzle' > Will allow for the file name to have a space. This is also the same with a backslash: monkey\ puzzle.
 
 [Back to Read Me](README.md) |
-[Reading 1](markdown.md) |
-[Reading 3](revisionsandthecloud.md) |
+[Reading 1: Markdown](markdown.md) |
+[Reading 3: Revision and the Cloud](revisionsandthecloud.md) |
+[Reading 4: HTML](html.md) |

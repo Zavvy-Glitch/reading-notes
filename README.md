@@ -49,9 +49,10 @@ Grandpa Tep
 >Nothing comes easy. Everything is earned.
 
 ### Table of Contents
-[Reading 1](markdown.md) |
-[Reading 2](coderscomputer.md) |
-[Reading 3](revisionsandthecloud.md) |
+[Reading 1: Markdown](markdown.md) |
+[Reading 2: Coder's Computer](coderscomputer.md) |
+[Reading 3: Revision and the Cloud](revisionsandthecloud.md) |
+[Reading 4: HTML](html.md) |
 
 ##### Find Me Here
 [Facebook](https://www.facebook.com/tray.alexzandar/) | 
