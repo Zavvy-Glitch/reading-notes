@@ -51,7 +51,7 @@ Grandpa Tep
 ### Table of Contents
 [Reading 1: Markdown](markdown.md) |
 [Reading 2: Coder's Computer](coderscomputer.md) |
-[Reading 3: Revision and the Cloud](revisionsandthecloud.md) |
+[Reading 3: Revision and the Cloud](revisionandthecloud.md) |
 [Reading 4: HTML](html.md) |
 
 ##### Find Me Here
