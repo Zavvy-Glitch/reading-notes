@@ -1,6 +1,21 @@
 # Reading 4: HTML
 
-## Wireframe and Design
+# HTML BASICS
+
+#### Hypertext Markup Language
+
+What is it?
+- Code used to structure a webpage & contents.
+- It is a markup language that constists of a series of **elements**
+
+#### Anatomy of HTML:
+- Opening Tags: <  > within these angled brackets would be an element. It will generate varying commands for your content.
+- Closing Tags: </ > same as opeing, but it has a forward slash. Just as it states it will close the command for the content within.
+- Content: This is just the text in or visual in which you want specifically displayed in a certain fashion.
+- Element: the command inside the angled brackets
+
+
+# Wireframe and Design
 
 ### What is a Wireframe?
         A wireframe is a method in which UX designers will sketch an outline or skeleton of a project/webpage.
@@ -30,6 +45,8 @@ Pen and Paper | UXpin | InVision | Wireframe.cc | Many More...
 * Clarity
 * Confidence
 * Simplicity is key
+
+
 
 
 [Back to Read Me](README.md) |
