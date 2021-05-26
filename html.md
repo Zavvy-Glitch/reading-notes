@@ -14,8 +14,8 @@
         * Ease of switching to software without the hassle of keeping track of details.
 
 
-        ## Tools for Wireframing
-        Pen and Paper | UXpin | InVision | Wireframe.cc |
+## Tools for Wireframing
+Pen and Paper | UXpin | InVision | Wireframe.cc | Many More...
 
 ## Six Steps For Wireframing
 
@@ -27,9 +27,9 @@
 -Turn Wireframes into Prototypes
 
 ## 3 Key Principles:
--Clarity
--Confidence
--Simplicity is key
+* Clarity
+* Confidence
+* Simplicity is key
 
 
 [Back to Read Me](README.md) |
