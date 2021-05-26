@@ -14,6 +14,11 @@ What is it?
 - Content: This is just the text in or visual in which you want specifically displayed in a certain fashion.
 - Element: the command inside the angled brackets
 
+#### Semantics:
+
+For programmers this pertains to the purpose of an element.
+For example: h1 within the angled brackets < >? Whats the purpose of the h1. It is intended to make the content within look like a header.
+
 
 # Wireframe and Design
 
