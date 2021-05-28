@@ -60,3 +60,4 @@ Pen and Paper | UXpin | InVision | Wireframe.cc | Many More...
 [Reading 3: Revision and the Cloud](revisionandthecloud.md) |
 [Reading 4: HTML](html.md)
 [Reading 5: CSS](css.md)
+[Reading 6: Dynamic Java](dynamicjavascript.md)
