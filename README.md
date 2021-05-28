@@ -38,16 +38,18 @@ Grandpa Tep
 >Nothing comes easy. Everything is earned.
 
 ### Table of Contents
+
 [Reading 1: Markdown](markdown.md) |
 [Reading 2: Coder's Computer](coderscomputer.md) |
 [Reading 3: Revision and the Cloud](revisionandthecloud.md) |
 [Reading 4: HTML](html.md) |
 [Reading 5: CSS](css.md) |
 [Reading 6: Dynamic Java](dynamicjavascript.md) |
-[Reading 7: Programming With JavaScript](programmingjavascript.md)
-[Reading 8: Operators and Loops](operatorsandloops.md)
+[Reading 7: Programming With JavaScript](programmingjavascript.md) |
+[Reading 8: Operators and Loops](operatorsandloops.md) |
 
-##### Find Me Here
+#### Find Me Here
+
 [Facebook](https://www.facebook.com/tray.alexzandar/) |
 [Instagram](https://www.instagram.com/trayalexzandar/) |
 [GitHub](https://github.com/Zavvy-Glitch) |

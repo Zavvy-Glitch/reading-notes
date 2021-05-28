@@ -28,8 +28,8 @@ Unary Operators:
         Example:
             - y++ or ++y ------- x being the operator and ++ being the operand or ++ being the operand and y being the operator
 
+### Functions
 
-## Functions
 [Back to Read Me](README.md) |
 [Reading 1: Markdown](markdown.md) |
 [Reading 2: Coder's Computer](coderscomputer.md) |
