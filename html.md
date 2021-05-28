@@ -55,6 +55,8 @@ Pen and Paper | UXpin | InVision | Wireframe.cc | Many More...
 
 
 [Back to Read Me](README.md) |
-[Reading 1 Markdown](markdown.md) |
-[Reading 2](coderscomputer.md) |
-[Reading 3](revisionandthecloud.md) |
+[Reading 1: Markdown](markdown.md) |
+[Reading 2: Coder's Computer](coderscomputer.md) |
+[Reading 3: Revision and the Cloud](revisionandthecloud.md) |
+[Reading 4: HTML](html.md)
+[Reading 5: CSS](css.md)

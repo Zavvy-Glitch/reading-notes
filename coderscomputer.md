@@ -53,3 +53,4 @@ file[path] | file location with in system |
 [Reading 1: Markdown](markdown.md) |
 [Reading 3: Revision and the Cloud](revisionandthecloud.md) |
 [Reading 4: HTML](html.md) |
+[Reading 5: CSS](css.md)
