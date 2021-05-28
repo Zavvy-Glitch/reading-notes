@@ -6,11 +6,11 @@
     Javascript has several operators:
 
     | Assignment Operators | Comparison Operators | Arithmetic operators |
-    | -------------------- | -------------------- | -------------------- |
+    | :--------------------: | :--------------------: | :--------------------: |
     | Bitwise operators | Logical operators | String operators |
-    | ----------------- | ----------------- | ---------------- |
-    |Conditional (ternary) operator | Comma operator | Unary operators |
-    | ----------------------------- | -------------- | --------------- |
+    | :-----------------: | :-----------------: | :----------------: |
+    | Conditional (ternary) operator | Comma operator | Unary operators |
+    | :-----------------------------: | :--------------: | :---------------: |
     | Relational operators |
 
 [Back to Read Me](README.md) |
