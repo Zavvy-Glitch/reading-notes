@@ -38,6 +38,30 @@
 
 ### Functions
 
+ Functions are  fundamental building blocks in JavaScript.
+
+    Functions are similar to procedures. You create a set of statements that performs tasks or calculates a specific value.
+    In order for it to be a function, in needs an input and it must return an output.
+
+  Function definition AKA: function declaration, or function statement, consists of the function keyword, followed by:
+        - Name of the function.
+        - A list of parameters to the function, enclosed in parentheses and separated by commas.
+        - Statements that define the function, enclosed in curly brackets, {...}. "
+
+    Example:
+        function *this is the declaration* unique *name of function* (parameters, go, here) *parameters go inside parenthesis separate with commas if multiple* { return parameter * parameter;
+        }
+
+        Lets make it easier to read:
+        
+        function unique (help) {
+            return help * help;
+        } 
+        (This is not an actual function)
+
+        This would be read as function unique uses one parameter, we named it help. There is only one singular statement that tells it to return the parameter of the function (help) multiplied by itself. In which we should get a return of help * help.
+        
+
 [Back to Read Me](README.md) |
 [Reading 1: Markdown](markdown.md) |
 [Reading 2: Coder's Computer](coderscomputer.md) |
