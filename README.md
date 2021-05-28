@@ -53,6 +53,7 @@ Grandpa Tep
 [Reading 2: Coder's Computer](coderscomputer.md) |
 [Reading 3: Revision and the Cloud](revisionandthecloud.md) |
 [Reading 4: HTML](html.md) |
+[Reading 5: CSS](css.md)
 
 ##### Find Me Here
 [Facebook](https://www.facebook.com/tray.alexzandar/) | 
