@@ -2,6 +2,17 @@
 
 ## Expressions and Operators
 
+### Expressions:
+    Javascript has several operators:
+
+    | Assignment Operators | Comparison Operators | Arithmetic operators |
+    | -------------------- | -------------------- | -------------------- |
+    | Bitwise operators | Logical operators | String operators |
+    | ----------------- | ----------------- | ---------------- |
+    |Conditional (ternary) operator | Comma operator | Unary operators |
+    | ----------------------------- | -------------- | --------------- |
+    | Relational operators |
+
 [Back to Read Me](README.md) |
 [Reading 1: Markdown](markdown.md) |
 [Reading 2: Coder's Computer](coderscomputer.md) |
