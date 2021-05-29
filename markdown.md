@@ -47,8 +47,6 @@ Below here is how they will generate:
 
 >It takes practice to reach proficiency. (This is the principle she lived by when teaching me how to cook)
 
-
-
 ### Table of Contents
 
 
